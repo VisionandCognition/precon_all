@@ -1,0 +1,5 @@
+A left and right hemisphere mask named: left_hem.nii.gz right_hem.nii.gz
+A subcortical structure mask named: sub_cort.nii.gz 
+A brain stem and cerebellar mask named: non_cort.nii.gz
+
+# Do a registration of the existing files
