@@ -1,0 +1,5 @@
+csf.nii.gz
+
+gm.nii.gz
+
+wm.nii.gz
